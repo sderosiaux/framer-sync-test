@@ -13,6 +13,7 @@ difficulty: Advanced
 # Advanced Animation Techniques
 
 Take your Framer projects to the next level with these advanced animation techniques.
+UPDATE
 
 ## Spring Animations
 
