@@ -12,6 +12,8 @@ published: true
 
 # CMS Best Practices for Framer
 
+![](./test.png)
+
 The Framer CMS is powerful when used correctly. Here are best practices to help you get the most out of it.
 
 ## Content Structure
